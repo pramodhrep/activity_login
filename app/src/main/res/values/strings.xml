@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">activity_login</string>
+    <string name="login_id">Login ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="attempts">No. of Attempts Remaining: </string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="logout">Logout</string>
+</resources>
